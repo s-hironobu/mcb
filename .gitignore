@@ -1,4 +1,9 @@
 # Object files
+git-push.sh
+git-pull.sh
+*~
+mcb
+
 *.o
 *.ko
 *.obj
