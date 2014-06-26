@@ -36,7 +36,7 @@ Starting 10 threads, each thread sends one thousand "set" commands.
             average data length = 100
     result =>
             interval =  0.419934 [sec]
-            performance =  23813.263946 [command/sec]
+            performance =  23813.263946 [commands/sec]
             thread info:
               ave. = 0.230296[sec], min = 0.047713[sec], max = 0.393719[sec]
 
