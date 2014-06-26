@@ -243,7 +243,7 @@ static void master_thread(void)
     fprintf(stdout, "\taverage data length = %d\n", sysval.data_len);
     fprintf(stdout, "result =>\n\tinterval =  %f [sec]\n", tmp_itvl);
     if (tmp_itvl != 0.0)
-	fprintf(stdout, "\tperformance =  %f [command/sec]\n",
+	fprintf(stdout, "\tperformance =  %f [commands/sec]\n",
 		(sysval.command_num * sysval.thread_num) / tmp_itvl);
     fprintf(stdout,
 	    "\tthread info:\n\t  ave. = %f[sec], min = %f[sec], max = %f[sec]\n",
