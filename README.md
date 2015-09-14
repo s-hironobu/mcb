@@ -1,6 +1,6 @@
 # mcb
 
-mcb is a simple memcached benchmark.
+mcb is a simple memcached benchmark. This has been tested by using CBMC(http://www.cprover.org/cbmc/), valgrind(http://valgrind.org/), and Intel Inspector XE.
 
 ## Compile
 
