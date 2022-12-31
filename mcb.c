@@ -12,7 +12,7 @@
  *                       valgrind(http://valgrind.org/),
  *                       and Intel Inspector XE.
  *
- * Copyright (C) 2008-2022  suzuki hironobu
+ * Copyright (C) 2008-2023  suzuki hironobu
  *
  * ---------------------------------------------------------------------------
  */
